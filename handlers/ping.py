@@ -51,7 +51,7 @@ async def help(client: Client, message: Message):
     resp = (end - start).microseconds / 1000
     await message.reply_sticker("CAACAgUAAxkBAAEENxZiNtPdibVkMsjLZrUG9NK4hotHQgAC2wEAAoM12VSdN9ujxVtnUyME")
     rahul = await message.reply_photo(
-        photo=f"{PING_IMG}",
+        photo=f"https://te.legra.ph/file/aae987926ff967314cef7.jpg",
         caption="🍑 ᴩɪɴɢɪɴɢ... 🍑",
     )
     await rahul.edit_text(
