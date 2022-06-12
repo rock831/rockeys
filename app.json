@@ -50,12 +50,10 @@
     "START_IMG": {
       "description": "Telegraph link of the pic which you want to set as the start pic of your bot",
       "required": false
-      "value": "https://te.legra.ph/file/aae987926ff967314cef7.jpg"
     },
     "PING_IMG": {
       "description": "Telegraph link of the pic which you want to set as the ping pic of your bot",
       "required": false
-      "value": "https://te.legra.ph/file/aae987926ff967314cef7.jpg"
     },
     "PMPERMIT": {
       "description": "If you want to notify users who pm to assistant account that it's the assistant account of your bot so don't spam messages there (ENABLE/DISABLE).",
