@@ -1,9 +1,9 @@
 {
-  "name": "ғᴀʟʟᴇɴ ᴍᴜsɪᴄ",
+  "name": "𝔸𝕒ℝ𝕦🇽 ℝ𝕠𝔹𝕠𝕋",
   "logo": "https://telegra.ph/file/89cbc8b8760b6abff430f.jpg",
   "description": "A SuperFast VC Player bot to play songs in Telegram Video Chat. Powered by PyTgCalls.",
-  "keywords": ["music", "voicechat", "telegram", "fallen"],
-  "repository": "https://github.com/AnonymousR1025/FallenMusic",
+  "keywords": ["music", "voicechat", "telegram", "Aaru"],
+  "repository": "https://github.com/BANNA-XD143/Aaru_music",
   "stack": "container",
   "env": {
     "SESSION_NAME": {
@@ -16,7 +16,7 @@
     },
     "BOT_NAME": {
       "description": "A name for your MusicPlayer Bot",
-      "required": false,
+      "required": "𝔸𝕒ℝ𝕦🇽 ℝ𝕠𝔹𝕠𝕋",
       "value": ""
     },
     "BOT_USERNAME": {
@@ -35,25 +35,27 @@
     "OWNER_USERNAME": {
       "description": "Username of the person who will known as owner of the bot, without @",
       "required": false,
-      "value": "anonymous_was_bot"
+      "value": "BANNA_XD"
     },
     "SUPPORT_GROUP": {
       "description": "Username of the group where users will go and disturb you, without @",
       "required": false,
-      "value": "DevilsHeavenMF"
+      "value": "AARU_SUPPORT"
     },
     "SUDO_USERS": {
       "description": "User IDs of the users who will counted as admin everywhere (if more than one separate them by space).",
       "required": true,
-      "value": "1356469075"
+      "value": "5150456401"
     },
     "START_IMG": {
       "description": "Telegraph link of the pic which you want to set as the start pic of your bot",
       "required": false
+      "value": "https://te.legra.ph/file/aae987926ff967314cef7.jpg"
     },
     "PING_IMG": {
       "description": "Telegraph link of the pic which you want to set as the ping pic of your bot",
       "required": false
+      "value": "https://te.legra.ph/file/aae987926ff967314cef7.jpg"
     },
     "PMPERMIT": {
       "description": "If you want to notify users who pm to assistant account that it's the assistant account of your bot so don't spam messages there (ENABLE/DISABLE).",
@@ -63,7 +65,7 @@
     "DURATION_LIMIT": {
       "description": "Max audio duration limit for downloads (minutes).",
       "required": false,
-      "value": "90"
+      "value": "160"
     }
   }
 }
