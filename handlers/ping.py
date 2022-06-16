@@ -49,9 +49,9 @@ async def help(client: Client, message: Message):
     start = datetime.now()
     end = datetime.now()
     resp = (end - start).microseconds / 1000
-    await message.reply_sticker("CAACAgUAAxkBAAEENxZiNtPdibVkMsjLZrUG9NK4hotHQgAC2wEAAoM12VSdN9ujxVtnUyME")
+    await message.reply_sticker("CAACAgUAAxkBAAPLYqsvOXrTAjFEQ_JYoxVQO2LPkDMAAgkGAAKyxVhVulwgGjIafHUkBA")
     rahul = await message.reply_photo(
-        photo=f"https://te.legra.ph/file/aae987926ff967314cef7.jpg",
+        photo=f"https://telegra.ph/file/3f9d00dae332a4aeb763d.jpg",
         caption="🍑 ᴩɪɴɢɪɴɢ... 🍑",
     )
     await rahul.edit_text(
