@@ -166,9 +166,9 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        text="𝗖𝗵𝗮𝗻𝗻𝗲𝗹", url=f"https://t.me/AARU_BOTS_ZONE"
+                        text="🌹𝐂𝐇𝐀𝐍𝐍𝐄𝐋🌹", url=f"https://t.me/AARU_BOTS_ZONE"
                     ),
-                    InlineKeyboardButton(text="𝗚𝗿𝗼𝘂𝗽", url=f"https://t.me/AARU_SUPPORT"),
+                    InlineKeyboardButton(text="💥𝐆𝐑𝐎𝐔𝐏💥", url=f"https://t.me/AARU_SUPPORT"),
                 ]
             ]
         )
@@ -205,10 +205,10 @@ async def play(_, message: Message):
                 [
                     [
                         InlineKeyboardButton(
-                            text="𝗖𝗵𝗮𝗻𝗻𝗲𝗹", url=f"https://t.me/AARU_BOTS_ZONE"
+                            text="🌹𝐂𝐇𝐀𝐍𝐍𝐄𝐋🌹", url=f"https://t.me/AARU_BOTS_ZONE"
                         ),
                         InlineKeyboardButton(
-                            text="𝗚𝗿𝗼𝘂𝗽", url=f"https://t.me/AARU_SUPPORT"
+                            text="💥𝐆𝐑𝐎𝐔𝐏💥", url=f"https://t.me/AARU_SUPPORT"
                         ),
                     ]
                 ]
@@ -222,10 +222,10 @@ async def play(_, message: Message):
                 [
                     [
                         InlineKeyboardButton(
-                            text="𝗖𝗵𝗮𝗻𝗻𝗲𝗹", url=f"https://t.me/AARU_BOTS_ZONE"
+                            text="🌹𝐂𝐇𝐀𝐍𝐍𝐄𝐋🌹", url=f"https://t.me/AARU_BOTS_ZONE"
                         ),
                         InlineKeyboardButton(
-                            text="𝗚𝗿𝗼𝘂𝗽", url=f"https://t.me/AARU_SUPPORT"
+                            text="💥𝐆𝐑𝐎𝐔𝐏💥", url=f"https://t.me/AARU_SUPPORT"
                         ),
                     ]
                 ]
@@ -274,9 +274,9 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        text="𝗖𝗵𝗮𝗻𝗻𝗲𝗹", url=f"https://t.me/AARU_BOTS_ZONE"
+                        text="🌹𝐂𝐇𝐀𝐍𝐍𝐄𝐋🌹", url=f"https://t.me/AARU_BOTS_ZONE"
                     ),
-                    InlineKeyboardButton(text="𝗚𝗿𝗼𝘂𝗽", url=f"https://t.me/AARU_SUPPORT"),
+                    InlineKeyboardButton(text="💥𝐆𝐑𝐎𝐔𝐏💥", url=f"https://t.me/AARU_SUPPORT"),
                 ]
             ]
         )
