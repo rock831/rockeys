@@ -34,14 +34,14 @@ async def start_(client: Client, message: Message):
                        ),
                   ],[
                     InlineKeyboardButton(
-                        "💔 ᴏᴡɴᴇʀ 💔", url=f"https://t.me/{me}"
+                        "❣️ ᴏᴡɴᴇʀ ❣️", url=f"https://t.me/{me}"
                     ),
                     InlineKeyboardButton(
-                        "🍒 sᴜᴘᴘᴏʀᴛ 🍒", url=f"https://t.me/{SUPPORT_GROUP}"
+                        "💥 sᴜᴘᴘᴏʀᴛ 💥", url=f"https://t.me/AARU_SUPPORT"
                     )
                 ],[
                     InlineKeyboardButton(
-                        "🔎 ɪɴʟɪɴᴇ 🔎", switch_inline_query_current_chat=""
+                        "🌹ᴄʜᴀɴɴᴇʟ🌹", url="https://t.me/AARU_BOTS_ZONE"
                     ),
                     InlineKeyboardButton(
                         "😎 ᴏᴡɴᴇʀ_Xᴅ 😎", url="https://t.me/BANNA_XD"
