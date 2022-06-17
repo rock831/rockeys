@@ -44,7 +44,7 @@ async def start_(client: Client, message: Message):
                         "🌹ᴄʜᴀɴɴᴇʟ🌹", url="https://t.me/AARU_BOTS_ZONE"
                     ),
                     InlineKeyboardButton(
-                        "😎 ᴏᴡɴᴇʀ_Xᴅ 😎", url="https://t.me/BANNA_XD"
+                        "😎 ᴅᴇᴠᴇʟᴏᴘᴇʀ 😎", url="https://t.me/BANNA_XD"
                     )]
             ]
        ),
