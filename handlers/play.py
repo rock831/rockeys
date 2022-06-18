@@ -166,9 +166,9 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        text="🌹𝐂𝐇𝐀𝐍𝐍𝐄𝐋🌹", url=f"https://t.me/AARU_BOTS_ZONE"
+                        text="🌹𝐂𝐇𝐀𝐍𝐍𝐄𝐋🌹", url=f"https://t.me/Couple_vibz"
                     ),
-                    InlineKeyboardButton(text="💥𝐆𝐑𝐎𝐔𝐏💥", url=f"https://t.me/AARU_SUPPORT"),
+                    InlineKeyboardButton(text="💥𝐆𝐑𝐎𝐔𝐏💥", url=f"https://t.me/Wajahtumho"),
                 ]
             ]
         )
@@ -205,10 +205,10 @@ async def play(_, message: Message):
                 [
                     [
                         InlineKeyboardButton(
-                            text="🌹𝐂𝐇𝐀𝐍𝐍𝐄𝐋🌹", url=f"https://t.me/AARU_BOTS_ZONE"
+                            text="🌹𝐂𝐇𝐀𝐍𝐍𝐄𝐋🌹", url=f"https://t.me/Couple_vibz"
                         ),
                         InlineKeyboardButton(
-                            text="💥𝐆𝐑𝐎𝐔𝐏💥", url=f"https://t.me/AARU_SUPPORT"
+                            text="💥𝐆𝐑𝐎𝐔𝐏💥", url=f"https://t.me/Wajahtumho"
                         ),
                     ]
                 ]
@@ -222,10 +222,10 @@ async def play(_, message: Message):
                 [
                     [
                         InlineKeyboardButton(
-                            text="🌹𝐂𝐇𝐀𝐍𝐍𝐄𝐋🌹", url=f"https://t.me/AARU_BOTS_ZONE"
+                            text="🌹𝐂𝐇𝐀𝐍𝐍𝐄𝐋🌹", url=f"https://t.me/Couple_vibz"
                         ),
                         InlineKeyboardButton(
-                            text="💥𝐆𝐑𝐎𝐔𝐏💥", url=f"https://t.me/AARU_SUPPORT"
+                            text="💥𝐆𝐑𝐎𝐔𝐏💥", url=f"https://t.me/Wajahtumho"
                         ),
                     ]
                 ]
@@ -274,9 +274,9 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        text="🌹𝐂𝐇𝐀𝐍𝐍𝐄𝐋🌹", url=f"https://t.me/AARU_BOTS_ZONE"
+                        text="🌹𝐂𝐇𝐀𝐍𝐍𝐄𝐋🌹", url=f"https://t.me/Couple_vibz"
                     ),
-                    InlineKeyboardButton(text="💥𝐆𝐑𝐎𝐔𝐏💥", url=f"https://t.me/AARU_SUPPORT"),
+                    InlineKeyboardButton(text="💥𝐆𝐑𝐎𝐔𝐏💥", url=f"https://t.me/Wajahtumho"),
                 ]
             ]
         )
