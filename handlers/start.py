@@ -11,7 +11,7 @@ async def start_(client: Client, message: Message):
     await message.delete()
     await message.reply_sticker("CAACAgUAAxkBAAPLYqsvOXrTAjFEQ_JYoxVQO2LPkDMAAgkGAAKyxVhVulwgGjIafHUkBA")
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/336544dbebf58dadb1e6f.jpg",
+        photo=f"https://te.legra.ph/file/a69e4648b1e8b334ab8ab.jpg",
         caption=f"""**━━━━━━━━━━━━━━━━━━
 💔 ʜᴇʏ {message.from_user.mention()} !
 
@@ -20,7 +20,7 @@ async def start_(client: Client, message: Message):
 ᴀʟʟ ᴏꜰ ᴍʏ ᴄᴏᴍᴍᴀɴᴅs ᴄᴀɴ ʙᴇ ᴜsᴇᴅ ᴡɪᴛʜ ᴍʏ ᴄᴏᴍᴍᴀɴᴅ ʜᴀɴᴅʟᴇʀs : ( `/ . • $ ^ ~ + * ?` )
 ┏━━━━━━━━━━━━━━┓
 ┣★
-┣★ ᴍᴀᴅᴇ ʙʏ: [❛-𝐌𝐑'𝐁𝐀𝐍𝐍𝐀-𝐱𝐃°](t.me/BANNA_XD)
+┣★ ᴍᴀᴅᴇ ʙʏ: [❛-𝐌𝐑'𝐁𝐀𝐍𝐍𝐀-𝐱𝐃°](t.me/MR_ROCKEY_BOY)
 ┣★
 ┗━━━━━━━━━━━━━━┛
 
@@ -37,11 +37,11 @@ async def start_(client: Client, message: Message):
                         "❣️ ᴏᴡɴᴇʀ ❣️", url=f"https://t.me/{me}"
                     ),
                     InlineKeyboardButton(
-                        "💥 sᴜᴘᴘᴏʀᴛ 💥", url=f"https://t.me/AARU_SUPPORT"
+                        "💥 sᴜᴘᴘᴏʀᴛ 💥", url=f"https://t.me/Wajahtumho"
                     )
                 ],[
                     InlineKeyboardButton(
-                        "🌹ᴄʜᴀɴɴᴇʟ🌹", url="https://t.me/AARU_BOTS_ZONE"
+                        "🌹ᴄʜᴀɴɴᴇʟ🌹", url="https://t.me/Couple_vibz"
                     ),
                     InlineKeyboardButton(
                         "😎 ᴅᴇᴠᴇʟᴏᴘᴇʀ 😎", url="https://t.me/BANNA_XD"
