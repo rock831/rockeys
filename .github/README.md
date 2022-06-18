@@ -25,4 +25,4 @@
 
 ### ㅤCREDITS 😘
 
-🖤❛-𝐌𝐑'𝐁𝐀𝐍𝐍𝐀 🚬 𝐊𝐈𝐍𝐆-𝐱𝐃 °  : ᴍᴇ ᴏɴ [ɢɪᴛʜᴜʙ💞](https://github.com/BANNA-XD143)ᴍᴇ ᴏɴ [ᴛᴇʟᴇɢʀᴀᴍ💔](https://telegram.me/BANNA_XD)
+ᎷᏒ_ᏒᎧፈᏦᏋᎩ_ᏰᎧᎩ °  : ᴍᴇ ᴏɴ [ɢɪᴛʜᴜʙ💞](https://github.com/rock831)ᴍᴇ ᴏɴ [ᴛᴇʟᴇɢʀᴀᴍ💔](https://telegram.me/MR_ROCKEY_BOY)
